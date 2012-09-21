@@ -8,15 +8,15 @@
   <content>
     <lift:surround with="default" at="content">
       <head>
-	<title>Lift :: Blog</title>
+  <title>Lift :: Blog</title>
       </head>
       
       <div id="left">
-	<script>
-	  // <![CDATA[
+  <script>
+    // <![CDATA[
              window.location = "http://lift.la/";
           // ]]>
-	</script>
+  </script>
       </div> <!-- left -->
     </lift:surround>
   </content>

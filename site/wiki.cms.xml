@@ -8,15 +8,15 @@
   <content>
     <lift:surround with="default" at="content">
       <head>
-	<title>Lift :: Wiki</title>
+  <title>Lift :: Wiki</title>
       </head>
       
       <div id="left">
-	<script>
-	  // <![CDATA[
+  <script>
+    // <![CDATA[
              window.location = "http://www.assembla.com/wiki/show/liftweb";
           // ]]>
-	</script>
+  </script>
       </div> <!-- left -->
     </lift:surround>
   </content>

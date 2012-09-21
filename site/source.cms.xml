@@ -10,7 +10,7 @@
   <content>
     <lift:surround with="default" at="content">
       <head>
-	<title>Lift :: Source</title>
+  <title>Lift :: Source</title>
       </head>
       
       <div id="left">

@@ -9,15 +9,15 @@
   <content>
     <lift:surround with="default" at="content">
       <head>
-	<title>Lift :: Seven Things</title>
+  <title>Lift :: Seven Things</title>
       </head>
       
       <div id="left">
-	<script>
-	  // <![CDATA[
+  <script>
+    // <![CDATA[
              window.location = "http://seventhings.liftweb.net/";
           // ]]>
-	</script>
+  </script>
       </div> <!-- left -->
     </lift:surround>
   </content>
