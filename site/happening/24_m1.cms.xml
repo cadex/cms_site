@@ -20,9 +20,9 @@
           <div class="span9">  
             
       <div>
-	<h1>Announcing Lift 2.4-M1</h1>
-	<p>June 6, 2011<br />
-	</p>
+  <h1>Announcing Lift 2.4-M1</h1>
+  <p>June 6, 2011<br />
+  </p>
 <p>Lift is the most powerful, most secure web framework available
 today. There are <a href="http://seventhings.liftweb.net/"
 target="_blank">Seven Things</a> that distinguish Lift from other web
@@ -67,8 +67,8 @@ target="_blank">Lift community</a> and enjoy the benefits of coding
 with Lift.
       </div>
           </div>      
-	        <div class="span3">  
-	          <lift:embed what="col2"/> 
+          <div class="span3">  
+            <lift:embed what="col2"/> 
             </div>
         </div>     
         </div>  

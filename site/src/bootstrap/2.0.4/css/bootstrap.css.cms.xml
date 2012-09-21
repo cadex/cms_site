@@ -1,6 +1,6 @@
 <cms path="/style/bootstrap/2.0.4/bootstrap.css" serve="true" type="css"
-	host="liftweb.net">
-	<content>
+ host="liftweb.net">
+ <content>
 <![CDATA[
 /*!
  * Bootstrap v2.0.4 (no less)
@@ -4986,5 +4986,5 @@ a.badge:hover {
   visibility: hidden;
 }
 ]]>
-	</content>
+ </content>
 </cms>

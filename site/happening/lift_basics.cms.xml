@@ -23,13 +23,13 @@
       <p>David Pollak is the founder and BDFL of the Lift Framework open source project.</p>
 
       <p>Join David for a 4 hour introductory session to Lift. David will cover:
-	<ul>
-	  <li>Lift's View First and Design Friendly templates to mock up the UI of your application</li>
-	  <li>Associate the UI with application behavior via Lift's snippets</li>
-	  <li>Explore Lift's Ajax and Comet features by adding interactive features to your app</li>
-	  
-	  <li>Expose your app data via JSON using Lift's REST helpers</li>
-	</ul>
+  <ul>
+    <li>Lift's View First and Design Friendly templates to mock up the UI of your application</li>
+    <li>Associate the UI with application behavior via Lift's snippets</li>
+    <li>Explore Lift's Ajax and Comet features by adding interactive features to your app</li>
+    
+    <li>Expose your app data via JSON using Lift's REST helpers</li>
+  </ul>
       </p>
 
       <p>The class is open for up to 12 participants.</p>
@@ -42,11 +42,11 @@
 
       <p>Please register for Lift Basics on Tuesday, January 4, 2011 9:00 AM - 1:00 PM PST at:<br/>
 
-	<a href="https://student.gototraining.com/9j4r6/register/3723981343245802752">https://student.gototraining.com/9j4r6/register/3723981343245802752</a>
+  <a href="https://student.gototraining.com/9j4r6/register/3723981343245802752">https://student.gototraining.com/9j4r6/register/3723981343245802752</a>
       </p>
           </div>      
-	        <div class="span3">  
-	          <lift:embed what="col2"/> 
+          <div class="span3">  
+            <lift:embed what="col2"/> 
             </div>
         </div>     
         </div>  
